@@ -1,8 +1,5 @@
-dataset/demo_video/road2.mp4
-dataset/mnist/.
-model/tensorflow/.
-model/YOLOv3/.
-model/TensorRT_model.pb
+dataset/
+model/
 .ipynb_checkpoints
 __pycache__
 
