@@ -8,6 +8,7 @@ This repository is for my YouTube video series [here](https://www.youtube.com/wa
 4. [Train Keras Model Using Your Own Dataset](https://www.youtube.com/watch?v=9IEcI5JZWg8&index=4&list=PLkRkKTC6HZMwdtzv3PYJanRtR6ilSCZ4f)
 5. [Restore and Use Stored Keras Model to Perform Inference](https://www.youtube.com/watch?v=h6X2THHnQ4s&list=PLkRkKTC6HZMwdtzv3PYJanRtR6ilSCZ4f&index=5)
 6. [Optimizing YOLOv3 using TensorRT](https://www.youtube.com/watch?v=stBYLsq15lY&index=6&list=PLkRkKTC6HZMwdtzv3PYJanRtR6ilSCZ4f)
+7. [Another YOLOv3 Detection Result (Native Tensorflow vs TensorRT optimized)](https://www.youtube.com/watch?v=IVUl61p6efU&list=PLkRkKTC6HZMwdtzv3PYJanRtR6ilSCZ4f&index=7)
 
 ## Pre-requirement
 1. TensorRT: follow the tutorial [here](https://medium.com/@ardianumam/installing-tensorrt-in-ubuntu-dekstop-1c7307e1dcf6) for Ubuntu dekstop or [here](https://medium.com/@ardianumam/installing-tensorrt-in-jetson-tx2-8d130c4438f5) for Jetson devices, to install tensorRT
