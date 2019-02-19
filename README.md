@@ -20,6 +20,25 @@ This repository is for my YouTube video series [here](https://www.youtube.com/wa
 4. Numpy 1.15.2
 5. Matplotlib 3.0.0
 
+
+## Environment used in this video series
+**Dekstop PC**
+1. OS: Ubuntu 16.04 - 64bit
+2. GPU: GeForce 1060 6Gb
+3. Driver version: 384.130
+4. RAM: 16Gb
+5. CUDA: 9.0
+6. CuDNN: 7
+7. TensorRT: 4.1.2
+
+**Jetson TX2**
+1. OS: Ubuntu 16.04 - 64bit
+2. GPU (with RAM shared): 8Gb
+3. Driver version: Given along flashing with Jetpack 3.3
+3. CUDA: 9.0
+4. CuDNN: 7
+5. TensorRT: 4.1.3
+
 ## Dataset
 Download (subset of) MNIST dataset [here](https://drive.google.com/file/d/1GOeU5T5EinT98VJsDbV0REyxEdgDwvio/view?usp=sharing), extract and put in folder `dataset`.
 
