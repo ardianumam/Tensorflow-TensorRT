@@ -14,7 +14,7 @@ This repository is for my YouTube video series [here](https://www.youtube.com/wa
 1. TensorRT: follow the tutorial [here](https://medium.com/@ardianumam/installing-tensorrt-in-ubuntu-dekstop-1c7307e1dcf6) for Ubuntu dekstop or [here](https://medium.com/@ardianumam/installing-tensorrt-in-jetson-tx2-8d130c4438f5) for Jetson devices, to install tensorRT
 
 ## Library I Use:
-1. Tensorflow 1.12
+1. Tensorflow 1.12 (Dekstop) and Tensorflow 1.11 (Jetson TX2)
 2. OpenCV 3.4.5
 3. Pillow 5.2.0
 4. Numpy 1.15.2
