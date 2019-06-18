@@ -11,7 +11,7 @@ This repository is for my YouTube video series [here](https://www.youtube.com/wa
 7. [Another YOLOv3 Detection Result (Native Tensorflow vs TensorRT optimized)](https://www.youtube.com/watch?v=IVUl61p6efU&list=PLkRkKTC6HZMwdtzv3PYJanRtR6ilSCZ4f&index=7)
 
 ## Pre-requirement
-1. TensorRT: follow the tutorial [here](https://medium.com/@ardianumam/installing-tensorrt-in-ubuntu-dekstop-1c7307e1dcf6) for Ubuntu dekstop or [here](https://medium.com/@ardianumam/installing-tensorrt-in-jetson-tx2-8d130c4438f5) for Jetson devices, to install tensorRT
+1. TensorRT: follow the tutorial [here](https://steemit.com/deeplearning/@ardianumam/installing-tensorrt-in-ubuntu-desktop) for Ubuntu dekstop or [here](https://steemit.com/deeplearning/@ardianumam/installing-tensorrt-in-jetson-tx2) for Jetson devices, to install tensorRT
 
 ## Library I Use:
 1. Tensorflow 1.12 (Dekstop) and Tensorflow 1.11 (Jetson TX2)
@@ -46,3 +46,14 @@ Download (subset of) MNIST dataset [here](https://drive.google.com/file/d/1GOeU5
 
 ## YOLOv3 Frozen Model
 Download [here](https://drive.google.com/file/d/1tH6RCYXfsvS_BC2Z_zEd7mu4uMYW4dsr/view?usp=sharing), extract and put in folder `model/YOLOv3` 
+
+## License:
+```
+Copyright 2019 - Ardian Umam
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+```
