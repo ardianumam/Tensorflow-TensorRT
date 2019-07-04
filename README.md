@@ -1,3 +1,8 @@
+## Don't Send Me An Email (Private Message)
+Hi guys, please write your question/issue report in this repo, not by sending me a private message. So, other people can also see in case they have a similar topic, or I can refer to them.
+
+
+## About This Repo
 This repository is for my YouTube video series [here](https://www.youtube.com/watch?v=AIGOSz2tFP8&list=PLkRkKTC6HZMwdtzv3PYJanRtR6ilSCZ4f), about optimizing deep learning model using TensorRT. We demonstrate optimizing LeNet-like model and YOLOv3 model, and get 3.7x and 1.5x faster for the former and the latter, respectively, compared to the original models. For the details and how to run the code, see the video below.
 
 
